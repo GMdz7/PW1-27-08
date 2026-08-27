@@ -802,6 +802,6 @@ O resultado é uma página interativa sobre o Sistema Solar contendo:
 
 ## 👨‍💻 Créditos
 
-**Projeto desenvolvido por Gabriel Mendes — 1DES**
-
+**Projeto desenvolvido por Gabriel Mendes e Vinicius Aquino — 1DES**
+© 2026 Vinicius Aquino;
 © 2026 Gabriel Mendes.
